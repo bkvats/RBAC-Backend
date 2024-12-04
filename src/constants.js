@@ -1,0 +1,1 @@
+cookieOptions = {httpOnly: true, secure: true};
